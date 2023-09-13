@@ -13,7 +13,6 @@ int Swap(int* a, int* b)
 int main()
 {
 	int a = 10, b = 20;
-	int c = 50;
 
 	cout << "º¯°æ Àü a = " << a << ", b = " << b << endl;
 	Swap(&a, &b);
